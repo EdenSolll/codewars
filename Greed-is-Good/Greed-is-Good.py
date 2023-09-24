@@ -1,1 +1,2 @@
-
+def score(dice)
+  return
